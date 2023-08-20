@@ -1,11 +1,11 @@
-# Your Name - Full Stack Web Developer
+# Md Sazzadur Rahman - Full Stack Web Developer
 
 Welcome to my GitHub profile! I'm a passionate Full Stack Web Developer with a focus on creating modern and responsive web applications. This repository serves as my portfolio, showcasing some of my recent projects.
 
 ## About Me
 
-- 👋 Hi, I'm [Your Name](https://yourwebsite.com).
-- 🌐 Visit my [Portfolio Website](https://yourwebsite.com).
+- 👋 Hi, I'm [Md Sazzadur Rahman](https://itsoftrain.com/).
+- 🌐 Visit my [Portfolio Website](https://itsoftrain.com/).
 - 💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile).
 - 📫 Reach me at: [your.email@example.com](mailto:your.email@example.com).
 
