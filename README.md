@@ -11,8 +11,8 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Web Developer with a f
 
 ## Technologies I Work With
 
-- **Front-end:** HTML, CSS, JavaScript, React.js
-- **Back-end:** Node.js, Express.js
+- **Front-end:** HTML, CSS, JavaScript, Vue.js
+- **Back-end:** PHP, Laravel
 - **Database:** MongoDB, MySQL
 - **Other Skills:** Git, RESTful APIs, Responsive Design
 
