@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Web Developer with a f
 - 👋 Hi, I'm [Md Sazzadur Rahman](https://itsoftrain.com/).
 - 🌐 Visit my [Portfolio Website](https://itsoftrain.com/).
 - 💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile).
-- 📫 Reach me at: [your.email@example.com](mailto:your.email@example.com).
+- 📫 Reach me at: [your.email@example.com](mailto:sazzadurrahman580@gmail.com).
 
 ## Technologies I Work With
 
