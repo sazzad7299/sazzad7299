@@ -34,7 +34,7 @@ A Multivendor Pharmacy Management as a POS system of a pharmacy built with HTML5
 - ### Project 2: Multivendor Building and Flat Management
 A Multivendor Building and Flat as an Accounting and Tenant maintenance system of a Building Owner built with HTML5, CSS3, Bootstrap, Vue.js, and Laravel 8. It's completely user-friendly, Owner can also take tenants from other Website
 
-- Live Demo: [My Pharmacity](http://building.amarlodge.com/)
+- Live Demo: [My Building](http://building.amarlodge.com/)
 
 ## Code Samples
 You can find more code samples in my GitHub repositories. Feel free to explore and provide feedback.
