@@ -1,10 +1,10 @@
 # Md Sazzadur Rahman - Full Stack Web Developer
 
-Welcome to my GitHub profile! I'm a passionate Full Stack Web Developer with a focus on creating modern and responsive web applications. This repository serves as my portfolio, showcasing some of my recent projects.
+Welcome to my GitHub profile! I'm a passionate Software Engineer who focuses on creating modern and responsive web applications. This repository serves as my portfolio, showcasing some of my recent projects.
 
 ## About Me
 - 👋 Hi, I'm [Md Sazzadur Rahman](https://itsoftrain.com/).
-As a Full Stack Web Developer proficient in Laravel, Vue.js, and Linux OS. Experienced in creating efficient web applications, with expertise in database design and troubleshooting. Skilled in Laravel Valet for local development. A collaborative team player, delivering high-quality code on time. Committed to staying updated with industry trends, ready to contribute dynamic solutions to web development projects.
+As a Software Engineer proficient in Laravel, Vue.js, and Linux OS. Experienced in creating efficient web applications, with expertise in database design and troubleshooting. Skilled in Laravel Valet for local development. A collaborative team player, delivering high-quality code on time. Committed to staying updated with industry trends, ready to contribute dynamic solutions to web development projects.
 
 - 🌐 Visit my [Portfolio Website](https://itsoftrain.com/).
 - 💼 LinkedIn: [Md.Sazzadur Rahman](https://www.linkedin.com/in/sazzadur-rahman-304296164/).
