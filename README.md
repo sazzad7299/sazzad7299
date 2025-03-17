@@ -1,4 +1,4 @@
-# Md Sazzadur Rahman - Full Stack Web Developer
+# Md Sazzadur Rahman - Software Engineer
 
 Welcome to my GitHub profile! I'm a passionate Software Engineer who focuses on creating modern and responsive web applications. This repository serves as my portfolio, showcasing some of my recent projects.
 
